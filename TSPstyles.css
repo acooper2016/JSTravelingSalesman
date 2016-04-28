@@ -1,0 +1,17 @@
+body {
+	background-color:#FFF;
+}
+
+#button1 {
+	background-color:#e60000;
+	width:100px;
+}
+
+#button2 {
+	background-color:#3399ff;
+	width:100px;
+}
+
+#canvas {
+	background-color: #f2f2f2;
+}
